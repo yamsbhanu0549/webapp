@@ -1,0 +1,50 @@
+{
+	"basics":{
+		"name":"yamini",
+		"role":"mean-stack",
+		"moblie":"+91 9251139149",
+		"email":"yamisivalasetti531@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+{
+	"degree":"B.tech(computer science & engineering)",
+	"institute":"Vignan Nirula",
+	"data":["2016-20","80%"]
+
+	},
+	{
+	"degree":"intermediate(mpc)",
+	"institute":"sri chaitanya",
+	"data":["2014-16","86%"]
+
+	},
+	{
+	"degree":"s.s.c",
+	"institute":"sri vivekananda vidya nikatan high school",
+	"data":["2014","92%"]
+
+	}
+	],
+	"skills":[
+		
+		{
+			"title":"programming Languages",
+			"content":["python","c","java","R","c++"]
+		},
+		{
+			"title":"Data Bases",
+			"content":["sql","oracle","my sql"]
+		},
+		{
+			"title":"web Technologies",
+			"content":["HTML","XML","java Script"]
+		},
+		{
+			"title":"Operating Systems",
+			"content":["windows","unix","linux"]
+		}
+	]
+}
